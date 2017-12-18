@@ -1,0 +1,15 @@
+{
+  "name": "update-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/_service.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/GustavoMaritan/update-package#readme"
+}
